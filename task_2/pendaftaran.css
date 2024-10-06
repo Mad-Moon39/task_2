@@ -1,0 +1,30 @@
+h1{
+    justify-content: center;
+    background-color: cornflowerblue;
+}
+
+.tabel{
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    
+}
+
+.tabel tr, .tabel td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.tabel tr:hover{
+    background-color: #ddd;
+
+}
+
+#Formulir{
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
